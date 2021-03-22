@@ -1,3 +1,3 @@
 git status --> Prients the status of the GIT Repo
-git init
+git init --> Initializes the GIT Repo
 git config -- 
